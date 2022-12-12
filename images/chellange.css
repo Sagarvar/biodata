@@ -1,0 +1,30 @@
+.red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    right: 267px;
+    bottom: 268px;
+    left: 201px;
+
+}
+.blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    bottom: 342px;
+    left: 101px;
+    top: 101px;
+    
+}
+.yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+
+}
